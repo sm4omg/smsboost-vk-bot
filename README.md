@@ -2,8 +2,8 @@ Smsboost 0.1
 
 Модули которые нужно установить:
 
- npm i vk-io
- npm i prequest
- npm i colors
- npm i fs
+\n npm i vk-io
+\n npm i prequest
+\n npm i colors
+\n npm i fs
 
